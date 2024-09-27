@@ -5,5 +5,5 @@ const nextConfig = {
     distDir: 'build',  // Custom build output directory
   };
   
-  export default nextConfig;
+  module.exports =  nextConfig;
   
